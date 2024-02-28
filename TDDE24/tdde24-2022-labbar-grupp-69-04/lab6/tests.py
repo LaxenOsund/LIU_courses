@@ -1,0 +1,1 @@
+calc1 = ['calc', ['set', 'x', 7,2],['print', 'x']]
